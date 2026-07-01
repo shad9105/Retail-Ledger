@@ -1,0 +1,6 @@
+{
+  "name": "Retail Ledger",
+  "description": "A high-contrast, easy-to-read daily sales and profit tracker for retail shops, with Excel (.xlsx) export of monthly ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
